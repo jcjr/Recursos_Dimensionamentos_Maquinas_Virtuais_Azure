@@ -1,0 +1,1 @@
+# Recursos_Dimensionamentos_Maquinas_Virtuais_Azure
